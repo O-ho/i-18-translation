@@ -1,0 +1,7 @@
+{
+  "title": "client 페이지",
+  "counter_one": "1개 선택됨",
+  "counter_other": "{{count}}개 선택됨",
+  "counter_zero": "선택된 항목 없음",
+  "back-to-home": "홈으로 돌아가기"
+}
